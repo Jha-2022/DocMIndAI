@@ -404,29 +404,5 @@ Response: {
    - Navigate between projects
    - Sign out
 
-## Future Enhancements
 
-- [ ] Support for more document formats (PDF, Google Docs)
-- [ ] Real-time collaboration features
-- [ ] Template library for common document types
-- [ ] Advanced formatting options
-- [ ] Image generation and insertion
-- [ ] Version history and rollback
-- [ ] Export customization options
-- [ ] Batch document generation
-- [ ] Integration with cloud storage (Google Drive, Dropbox)
-- [ ] Multi-language support
 
-## Support & Contact
-
-For issues, questions, or feedback:
-- GitHub Issues: [repository URL]
-- Email: support@docugenai.com
-
-## License
-
-This project is proprietary software created for assignment evaluation purposes.
-
----
-
-**Built with ❤️ using React, TypeScript, Tailwind CSS, and Supabase**
